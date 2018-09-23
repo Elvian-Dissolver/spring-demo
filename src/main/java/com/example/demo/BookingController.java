@@ -18,7 +18,7 @@ public class BookingController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, world";
+        return "Hello, world2";
     }
 
     @GetMapping("/hotels")
